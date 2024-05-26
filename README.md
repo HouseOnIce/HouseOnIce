@@ -1,4 +1,4 @@
 - 👋 Hi, I’m a Creeper.
 - 👀 I’m interested in Raspberry Pi and Minecraft.
-- 🌱 I’m currently learning how to squeeze dry a Raspberry Pi(Because I just have a Raspberry Pi 3B).
+- 🌱 I’m currently learning how to squeeze dry a Raspberry Pi(Because I only have a Raspberry Pi 3B).
 - 📫 E-mail me at msy121212@163.com
